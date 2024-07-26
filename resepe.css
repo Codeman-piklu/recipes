@@ -1,0 +1,134 @@
+body{
+    background-color:rgb(250, 249, 249);
+    margin:60px;margin-left:80px;
+    width: auto;
+    height: fit-content;
+}
+.font{
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+}
+.parent{
+    background-color: rgb(250, 233, 212);
+    height: 1300px ;
+    width:700px;
+    margin-bottom: 100px;
+    padding: 50px;
+    margin-top:-50px;
+    }
+    .parent2{
+        background-color: rgb(250, 233, 212);
+        height: 1100px ;
+        width:700px;
+        margin-bottom: 100px;
+        padding: 50px;
+        position: relative;
+        top: 49px;
+        right:90px;;
+        }
+.main{
+    height: 1210px;px;
+    width: 500px;
+    background-color: aliceblue;
+    margin-top:  20px;
+    margin-left: 60px;
+
+    padding: 20px;
+    position:relative;
+    border-radius: 20px;}
+    .main2{
+        height: 1080px;px;
+        width: 500px;
+        background-color: aliceblue;
+        margin-top:25px;
+        margin-left: 60px;
+    
+        padding: 20px;
+        position:relative;
+        top:;
+       
+      
+       
+        border-radius: 20px;
+}
+img{
+    height:auto;
+    width:490px;
+    border-radius: 10px;
+    padding:5px ;
+}
+h1{
+   font-size: 25px;
+        font-family: "Young Serif", serif;
+        font-weight: 100;
+        font-style: normal;
+}
+p{
+font-size: 12px;
+} 
+.Preparation1{
+    background-color: rgba(192, 117, 174, 0.103);
+    padding:5px;
+    border-radius:5px;
+}  
+.Preparation{
+    background-color: rgba(192, 117, 174, 0.103);
+    padding: -10px;
+    border-radius:5px;
+}  
+
+h4{
+margin-left:15px;
+font-weight: 600;
+color: rgb(107, 30, 84);
+}
+ul{
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.685);}
+
+.Ingredients{
+    color: rgba(0, 0, 0, 0.671);
+    font-size: 12px;
+    position:relative;
+    text-align:left;}
+.Ingredients li{
+    color: 
+    rgb(92, 77, 77);
+    margin-left:-25px;
+}
+hr{
+    color: rgba(0, 0, 0, 0.137);
+}
+h3{
+color: rgb(194, 109, 5) ;
+font-size:21px;
+}
+ol li{
+    font-size: 12px;
+    margin-left:-25px;
+    padding: 10px;
+}
+.Nutrition li{
+    font-size:15px;
+    margin-left: -20px;
+    display:block;
+    position: relative;
+    left:55%;
+
+}
+.bothdiv{
+position: relative;
+top: 55px;
+left: 55px; 
+margin:10px; 
+}
+.child_1{
+    position:absolute;/* eta tokon ei use kora jabe jokon 
+    position parent div e relative thakbe*/
+    left:26%;
+    margin-left:-25px;
+    top:-20%;
+    margin-top:-25px;
+    z-index:-2;
+}
+
